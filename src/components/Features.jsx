@@ -100,7 +100,7 @@ export default function Features() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-b-[calc(2rem+1px)] lg:rounded-br-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="public/images/ponto-features-ai-personalization.png"
+                  src="/images/ponto-features-ai-personalization.png"
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
