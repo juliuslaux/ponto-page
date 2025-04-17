@@ -10,22 +10,22 @@ const faqs = [
   {
     question: "How is Ponto different from LinkedIn, or other sourcing solutions?",
     answer:
-      "Ponto is a platform that helps you find, contact, and hire the best candidates quickly. It's designed for hiring managers and recruiters.",
+      "LinkedIn and other platforms primarily rely on filter-based searches. In contrast, Ponto uses AI-powered context-based search to understand the nuances of profiles, make inferences, and surface best-fit candidates that traditional tools often miss. We believe this approach has the potential to significantly reduce sourcing time, uncover more qualified candidates, and improve conversion rates by targeting talent that truly aligns with hiring needs.",
   },
   {
     question: "How much does Ponto cost?",
     answer:
-      "Ponto is a platform that helps you find, contact, and hire the best candidates quickly. It's designed for hiring managers and recruiters.",
+      "We are currently in private beta and only accept a limited number of customers. If you're interested in joining the beta, please contact us at founders@useponto.com",
   },
   {
     question: "Can I use Ponto with my team?",
     answer:
-      "Ponto is a platform that helps you find, contact, and hire the best candidates quickly. It's designed for hiring managers and recruiters.",
+      "Of course! Ponto is designed to be used by teams. You can collaborate on searches, shortlist candidates, and coordinate your outreach campaigns.",
   },
   {
     question: "How does Ponto use AI?",
     answer:
-      "Ponto is a platform that helps you find, contact, and hire the best candidates quickly. It's designed for hiring managers and recruiters.",
+      "We believe in a human-first approach to sourcing. However, as former Recruiters and Hiring Managers, we also know the tedious parts of recruiting. With Ponto, we have built a solution that leverages AI to make sourcing more efficient and effective.",
   },
   
   
