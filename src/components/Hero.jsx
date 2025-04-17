@@ -80,7 +80,7 @@ export default function Hero() {
                 <span className="sr-only">Ponto</span>
                 <img
                   alt=""
-                  src="public/images/ponto-logo-new-black.svg"
+                  src="/images/ponto-logo-new-black.svg"
                   className="h-8 w-auto"
                 />
               </a>

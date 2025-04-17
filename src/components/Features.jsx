@@ -28,7 +28,7 @@ export default function Features() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-t-[calc(2rem+1px)] lg:rounded-tl-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="public/images/ponto-features-investor-data.png"
+                  src="/images/ponto-features-investor-data.png"
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
@@ -46,7 +46,7 @@ export default function Features() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-tr-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="public/images/ponto-features-outreach-analytics.png"
+                  src="/images/ponto-features-outreach-analytics.png"
                   className="h-80 object-cover object-left lg:object-right"
                 />
                 <div className="p-10 pt-4">
@@ -64,7 +64,7 @@ export default function Features() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-bl-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="public/images/ponto-features-custom-presets.png"
+                  src="/images/ponto-features-custom-presets.png"
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
@@ -82,7 +82,7 @@ export default function Features() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)]">
                 <img
                   alt=""
-                  src="public/images/ponto-features-data.png"
+                  src="/images/ponto-features-data.png"
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
