@@ -44,7 +44,7 @@ const features3 = [
   {
     name: 'Unified inbox.',
     description:
-      'Create and manage outreach sequences across multiple channels—LinkedIn, email, WhatsApp—all from one place.',
+      'Create and manage outreach sequences across LinkedIn, InMail and Email all from one place.',
     icon: InboxIcon,
   },
   {
